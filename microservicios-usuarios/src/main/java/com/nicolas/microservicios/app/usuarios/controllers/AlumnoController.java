@@ -23,17 +23,19 @@ public class AlumnoController {
         return ResponseEntity.ok().body(alumnoService.findAll());
     }
 
-    @PostMapping("/{id}")
-    private ResponseEntity<?> verAlumno(@PathVariable Long id) {
-        Optional<Alumno> alumno = alumnoService.findById(id);
-        if (alumno.isEmpty()) {
-            return ResponseEntity.notFound().build();
-        }
+    @GetMapping("/{id}")
+    private ResponseEntity<?> verAlumno(@PathVariable Long id) throws Exception {
+        Optional<Alumno> alumno = Optional.ofNullable(alumnoService.findById(id).orElseThrow(() -> new Exception("No se encuentra el alumno")));
         return ResponseEntity.ok().body(alumno.get());
     }
 
     @PostMapping()
     private ResponseEntity<?> saveAlumno(@RequestBody Alumno alumno) {
         return ResponseEntity.status(HttpStatus.CREATED).body(alumnoService.save(alumno));
+    }
+
+    @DeleteMapping("/{id}")
+    private void saveAlumno(@PathVariable Long id) {
+        alumnoService.deleteById(id);
     }
 }
