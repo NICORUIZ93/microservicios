@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="commons-alumnos" target="17" />
+      <module name="commons-alumnos.main" target="17" />
+      <module name="commons-alumnos.test" target="17" />
+      <module name="microservicios" target="17" />
+      <module name="microservicios.commons-alumnos.main" target="17" />
+      <module name="microservicios.commons-alumnos.test" target="17" />
+      <module name="microservicios.main" target="17" />
+      <module name="microservicios.microservicios-cursos" target="17" />
+      <module name="microservicios.microservicios-cursos.main" target="17" />
+      <module name="microservicios.microservicios-cursos.test" target="17" />
+      <module name="microservicios.microservicios-eureka" target="17" />
+      <module name="microservicios.microservicios-eureka.main" target="17" />
+      <module name="microservicios.microservicios-eureka.test" target="17" />
+      <module name="microservicios.microservicios-gateway" target="17" />
+      <module name="microservicios.microservicios-gateway.main" target="17" />
+      <module name="microservicios.microservicios-gateway.test" target="17" />
+      <module name="microservicios.microservicios-usuarios" target="17" />
+      <module name="microservicios.microservicios-usuarios.main" target="17" />
+      <module name="microservicios.microservicios-usuarios.test" target="17" />
+      <module name="microservicios.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
