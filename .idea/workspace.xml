@@ -4,47 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b29f8937-4e16-4306-9c84-327c522e718a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/MicroserviciosCursosApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/controllers/CursoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/entities/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/impl/CursoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/repositories/CursoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/services/CursoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-cursos/src/test/java/com/nicolas/microservicioscursos/MicroserviciosCursosApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicios-eureka/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-eureka/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-eureka/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-eureka/src/main/java/com/nicolas/microservicioseureka/MicroserviciosEurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-eureka/src/main/java/com/nicolas/microservicioseureka/MicroserviciosEurekaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-eureka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-eureka/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-eureka/src/test/java/com/nicolas/microservicioseureka/MicroserviciosEurekaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-eureka/src/test/java/com/nicolas/microservicioseureka/MicroserviciosEurekaApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/file-system.probe" afterDir="false" />
+    <list default="true" id="b29f8937-4e16-4306-9c84-327c522e718a" name="Changes" comment="ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-cursos/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-cursos/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicios-usuarios/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/src/main/java/com/nicolas/microservicios/app/usuarios/repositories/AlumnoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/src/main/java/com/nicolas/microservicios/app/usuarios/repositories/AlumnoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/src/main/java/com/nicolas/microservicios/app/usuarios/repositories/impl/AlumnosRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/src/main/java/com/nicolas/microservicios/app/usuarios/repositories/impl/AlumnosRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/src/main/java/com/nicolas/microservicios/app/usuarios/services/AlumnoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/src/main/java/com/nicolas/microservicios/app/usuarios/services/AlumnoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicios-usuarios/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,13 +86,13 @@
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelOrder2": "2",
-    "RequestMappingsPanelWidth0": "512",
-    "RequestMappingsPanelWidth1": "512",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RequestMappingsPanelWidth2": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/nicol/OneDrive/Documentos/Curso/microservicios/commons-alumnos",
+    "last_opened_file_path": "C:/Users/nicol/OneDrive/Documentos/Curso/microservicios",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -146,24 +109,10 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MicroserviciosEurekaApplication">
-    <configuration name="MicroserviciosCursosApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="microservicios.microservicios-cursos.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nicolas.microservicioscursos.MicroserviciosCursosApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.MicroserviciosUsuariosApplication">
     <configuration name="MicroserviciosCursosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="microservicios-cursos.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.nicolas.microservicioscursos.MicroserviciosCursosApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MicroserviciosEurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="microservicios.microservicios-eureka.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nicolas.microservicioseureka.MicroserviciosEurekaApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,23 +124,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MicroserviciosGatewayApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="microservicios.microservicios-gateway.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nicolas.microserviciosgateway.MicroserviciosGatewayApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MicroserviciosGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="microservicios-gateway.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.nicolas.microserviciosgateway.MicroserviciosGatewayApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MicroserviciosUsuariosApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="microservicios.microservicios-usuarios.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nicolas.microservicios.app.usuarios.MicroserviciosUsuariosApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -208,10 +143,6 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.MicroserviciosCursosApplication" />
-      <item itemvalue="Spring Boot.MicroserviciosCursosApplication (1)" />
-      <item itemvalue="Spring Boot.MicroserviciosEurekaApplication (1)" />
-      <item itemvalue="Spring Boot.MicroserviciosGatewayApplication (1)" />
-      <item itemvalue="Spring Boot.MicroserviciosUsuariosApplication (1)" />
       <item itemvalue="Spring Boot.MicroserviciosEurekaApplication" />
       <item itemvalue="Spring Boot.MicroserviciosGatewayApplication" />
       <item itemvalue="Spring Boot.MicroserviciosUsuariosApplication" />
@@ -227,8 +158,16 @@
       <updated>1673600857875</updated>
       <workItem from="1673600859278" duration="389000" />
       <workItem from="1673601371406" duration="1699000" />
-      <workItem from="1673913163246" duration="11761000" />
+      <workItem from="1673913163246" duration="12852000" />
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1673925304808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673925304808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,5 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
