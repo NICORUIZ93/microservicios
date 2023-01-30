@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b29f8937-4e16-4306-9c84-327c522e718a" name="Changes" comment="ok">
+    <list default="true" id="b29f8937-4e16-4306-9c84-327c522e718a" name="Changes" comment="Swagger fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicios-cursos/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-cursos/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/MicroserviciosCursosApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/MicroserviciosCursosApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/entities/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-cursos/src/main/java/com/nicolas/microservicioscursos/entities/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/7.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicios-usuarios/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/microservicios-usuarios/.gradle/file-system.probe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,19 +95,19 @@
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelOrder2": "2",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth0": "507",
+    "RequestMappingsPanelWidth1": "507",
     "RequestMappingsPanelWidth2": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/nicol/OneDrive/Documentos/Curso/microservicios",
+    "last_opened_file_path": "C:/Users/nicol/OneDrive/Documentos/Curso",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "d672ee72b17e111f037bb365684efa6d",
+    "spring.configuration.checksum": "e9996e27cdeff6bac42970c95d611455",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -109,7 +118,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MicroserviciosUsuariosApplication">
+  <component name="RunManager" selected="Spring Boot.MicroserviciosCursosApplication">
     <configuration name="MicroserviciosCursosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="microservicios-cursos.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.nicolas.microservicioscursos.MicroserviciosCursosApplication" />
@@ -158,7 +167,8 @@
       <updated>1673600857875</updated>
       <workItem from="1673600859278" duration="389000" />
       <workItem from="1673601371406" duration="1699000" />
-      <workItem from="1673913163246" duration="12852000" />
+      <workItem from="1673913163246" duration="14276000" />
+      <workItem from="1673927740466" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1673925304808</created>
@@ -167,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673925304808</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Swagger fix">
+      <created>1673926117227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673926117227</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +193,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="Swagger fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swagger fix" />
   </component>
 </project>
